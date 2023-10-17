@@ -109,7 +109,7 @@ int main(){
     minoBuffer.reserve(SCREEN_WIDTH_PER_BLOCK * SCREEN_HEIGHT_PER_BLOCK);
     
     // Init Render Window
-    sf::RenderWindow window(sf::VideoMode(SCREEN_WIDTH, SCREEN_HEIGHT) , "The Game!");
+    sf::RenderWindow window(sf::VideoMode(SCREEN_WIDTH, SCREEN_HEIGHT) , "Tetris by M Haris!");
 
     // <- Wall Texture ->
     // textures for wall
